@@ -1,0 +1,36 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+    background-color: #fffafa;
+    text-align: center;
+    padding: 40px;
+}
+
+.card {
+    background-color: white;
+    width: 350px;
+    margin: 0 auto;
+    padding: 25px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.card img {
+    width: 175px;
+    height: 160px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.card h2 {
+    color: aquamarine;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.card p {
+    margin: 5px 0;
+    color: #333;
+}
